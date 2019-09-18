@@ -1,1 +1,1 @@
-# modular-app_brew
+# homebrew-modular-app
